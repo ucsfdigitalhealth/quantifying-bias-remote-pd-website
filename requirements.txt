@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==1.5.3
+scikit-learn
+matplotlib==3.9.2
+seaborn
+xgboost==3.0.0
+lightgbm==4.6.0
+tensorflow==2.16.2
+keras==3.7.0
+aif360==0.6.1
+imbalanced-learn
+joblib
+yaspin==3.1.0
+statsmodels
