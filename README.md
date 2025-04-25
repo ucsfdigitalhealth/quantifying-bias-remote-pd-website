@@ -7,17 +7,18 @@ This project investigates algorithmic fairness in AI models for detecting Parkin
 ## 📁 Project Structure
 
 ```
-├── analysis/                  # Output plots and figures
-├── data/                      # Raw, Intermediate and Processed datasets
-├── src/                       # Source code for models, fairness, and utilities
-├── weights/                   # Saved model weights
-├── config.py                  # Project configuration
-├── main.py                    # Main CLI script
-├── Part 1 - Data Preparation.ipynb
-├── Part 2 - Training and Testing the AI Model.ipynb
-├── Part 3 - Quantify Bias After Race Upsample.ipynb
-├── Part 3 - Quantify Bias Before Race Upsample.ipynb
-├── requirements.txt
+quantifying-bias-remote-pd-website
+   ├── analysis/                  # Output plots and figures
+   ├── data/                      # Raw, Intermediate and Processed datasets
+   ├── src/                       # Source code for models, fairness, and utilities
+   ├── weights/                   # Saved model weights
+   ├── config.py                  # Project configuration
+   ├── main.py                    # Main CLI script
+   ├── Part 1 - Data Preparation.ipynb
+   ├── Part 2 - Training and Testing the AI Model.ipynb
+   ├── Part 3 - Quantify Bias After Race Upsample.ipynb
+   ├── Part 3 - Quantify Bias Before Race Upsample.ipynb
+   ├── requirements.txt
 ```
 
 ---
